@@ -3,4 +3,9 @@
     <string name="btn_addPerson">Ajouter une personne</string>
     <string name="txtViewNom">Nom</string>
     <string name="txtViewPrenom">Prénom</string>
+    <string name="txtViewName_editor">Nom</string>
+    <string name="txtViewfirstname_editor">Prénom</string>
+    <string name="btnValider">Valider</string>
+    <string name="entrer_votre_nom">Entrer votre nom</string>
+    <string name="entrer_votre_pr_nom">Entrer votre prénom</string>
 </resources>
