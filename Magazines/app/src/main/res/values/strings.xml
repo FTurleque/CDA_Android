@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Magazines</string>
+    <string name="btn_add_magazine">Add Magazine</string>
+    <string name="txt_view_name">Name</string>
+    <string name="txtView_cost">Cost</string>
+    <string name="txtView_rate">Rate</string>
+</resources>
